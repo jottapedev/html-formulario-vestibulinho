@@ -19,9 +19,8 @@ Projeto desenvolvido na ETEC durante o curso de Desenvolvimento de Sistemas. O o
 - [x] Campo de data de nascimento
 - [x] Seleção de cidade
 - [x] Seleção de curso pretendido (DS, Informática, Eletromecânica, Redes, Logística, Administração)
-- [ ] Integração com API de CEP para preenchimento automático de endereço
-- [ ] Validação de CPF
-- [ ] Envio e confirmação de inscrição
+- [x] Integração com API de CEP para preenchimento automático de endereço
+- [x] Envio e confirmação de inscrição
 
 ## 🛠️ Tecnologias utilizadas
 
